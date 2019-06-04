@@ -1,3 +1,4 @@
 *.pyo
 .idea
 venv
+.DS_Store
